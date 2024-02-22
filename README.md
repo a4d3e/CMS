@@ -108,7 +108,10 @@ Last but not least, go to this address http://127.0.0.1:8000
 <a href="https://github.com/a4d3e" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-
+<a href="https://www.instagram.com/annkiit___/?next=%2F" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+ alt=instagram style="margin-bottom: 5px;" />
+</a>
 </div>
 
 ### Show your support by ⭐️ this project!
