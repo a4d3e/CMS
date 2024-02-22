@@ -109,7 +109,7 @@ Last but not least, go to this address http://127.0.0.1:8000
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/annkiit___/?next=%2F" target="_blank">
-<img src=![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
  alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
