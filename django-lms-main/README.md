@@ -4,7 +4,7 @@ Feature-rich learning management system. You may want to build a learning manage
 
 Let's enhance the project by contributing! 👩‍💻👩‍💻
 
-![Screenshot from 2023-12-31 17-36-31](https://github.com/adilmohak/django-lms/assets/60693922/e7fb628a-6275-4160-ae0f-ab27099ab3ca)
+![Screenshot 2024-02-22 132058](https://github.com/a4d3e/College-Management-System/assets/118653780/683711ee-f6d8-4f5e-84d6-1561c91d8e1c)
 
 ## Current features
 
@@ -96,7 +96,8 @@ python manage.py runserver
 Last but not least, go to this address http://127.0.0.1:8000
 
 ### References
-
+![Screenshot 2024-02-22 132040](https://github.com/a4d3e/College-Management-System/assets/118653780/9cb0f853-e7f8-40c2-b706-6bee1176fd94)
+![Screenshot 2024-02-22 132019](https://github.com/a4d3e/College-Management-System/assets/118653780/aeecc288-a1c6-4589-b9f4-8f7d17dbc1ba)
 - Quiz part: https://github.com/tomwalker/django_quiz
 
 # Connect with me
@@ -115,3 +116,5 @@ Last but not least, go to this address http://127.0.0.1:8000
 </div>
 
 ### Show your support by ⭐️ this project!
+
+
