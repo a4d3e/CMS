@@ -4,7 +4,6 @@ Feature-rich learning management system. You may want to build a learning manage
 
 Let's enhance the project by contributing! 👩‍💻👩‍💻
 
-![Screenshot from 2023-12-31 17-36-31](https://github.com/adilmohak/django-lms/assets/60693922/e7fb628a-6275-4160-ae0f-ab27099ab3ca)
 
 ## Current features
 
@@ -96,24 +95,26 @@ python manage.py runserver
 Last but not least, go to this address http://127.0.0.1:8000
 
 ### References
-
+![Screenshot 2024-02-22 132058](https://github.com/a4d3e/College-Management-System/assets/118653780/683711ee-f6d8-4f5e-84d6-1561c91d8e1c)
+![Screenshot 2024-02-22 132040](https://github.com/a4d3e/College-Management-System/assets/118653780/9cb0f853-e7f8-40c2-b706-6bee1176fd94)
+![Screenshot 2024-02-22 132019](https://github.com/a4d3e/College-Management-System/assets/118653780/aeecc288-a1c6-4589-b9f4-8f7d17dbc1ba)
 - Quiz part: https://github.com/tomwalker/django_quiz
 
 # Connect with me
 
 <div>
-<a href="https://www.linkedin.com/in/adilmohak" target="_blank">
+<a href="https://www.linkedin.com/in/ankit-kumar-tiwari-565a56257/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/adilmohak" target="_blank">
+<a href="https://github.com/a4d3e" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/12872688/adil-mohak" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/adilmohak1" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/annkiit___/?next=%2F" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+ alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
 
 ### Show your support by ⭐️ this project!
+
+
