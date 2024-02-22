@@ -96,6 +96,8 @@ python manage.py runserver
 Last but not least, go to this address http://127.0.0.1:8000
 
 ### References
+![Screenshot 2024-02-22 132058](https://github.com/a4d3e/College-Management-System/assets/118653780/683711ee-f6d8-4f5e-84d6-1561c91d8e1c)
+![Screenshot 2024-02-22 132040](https://github.com/a4d3e/College-Management-System/assets/118653780/3dbf33ca-3530-4875-9ef0-22bfbbd78c24)
 
 - Quiz part: https://github.com/tomwalker/django_quiz
 
@@ -115,3 +117,4 @@ Last but not least, go to this address http://127.0.0.1:8000
 </div>
 
 ### Show your support by ⭐️ this project!
+
