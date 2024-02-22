@@ -97,7 +97,6 @@ Last but not least, go to this address http://127.0.0.1:8000
 
 ### References
 ![Screenshot 2024-02-22 132040](https://github.com/a4d3e/College-Management-System/assets/118653780/9cb0f853-e7f8-40c2-b706-6bee1176fd94)
-![Screenshot 2024-02-22 132019](https://github.com/a4d3e/College-Management-System/assets/118653780/757a37ce-ea85-4ceb-afd1-09c802587053)
 
 - Quiz part: https://github.com/tomwalker/django_quiz
 
